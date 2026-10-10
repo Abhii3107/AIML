@@ -1,12 +1,12 @@
-print("Hello python")
+print("hello python - My name is Abhay"); 
+# hello python - My name is Abhay
 
-# In same line
-print("Hello Python" ,"My name is Abhay")
+print("hello" ,"world");
+# hello world
 
-#for break a line -\n -> special character
-print("Hello Python \n It is lovely to meet you ," ,"My name is Abhay Singh :)" )
+print ("hello \nworld"); 
+# for next line
 
-# output
+# hello 
+# world
 
-# Hello Python 
-#  It is lovely to meet you , My name is Abhay Singh :) 
