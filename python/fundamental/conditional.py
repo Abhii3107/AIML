@@ -3,7 +3,7 @@
 age  = 20
 
 if age >= 18:
-   print("eligible for vote")  # why ther eis gap in starting - inductetion , mtlb an ye if ke condition maia aaege
+   print("eligible for vote")  # why there is gap in starting - inductetion , mtlb an ye if ke condition maia aaege
    print("both statememnt will printed if condition will justify")
 else:
     print("you are not eligible for voting")  
